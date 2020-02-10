@@ -6,6 +6,10 @@ Spring Boot Swagger
 * After app started, please visit http://localhost:8080/swagger-ui.html
 * swagger json url:  http://localhost:8080/v2/api-docs
 
+### SpringFox with Webflux
+
+Please use @EnableSwagger2WebFlux
+
 ### References
 
 * SpringFox: http://springfox.github.io/springfox/docs/current/
