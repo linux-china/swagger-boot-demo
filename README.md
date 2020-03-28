@@ -14,3 +14,4 @@ Please use @EnableSwagger2WebFlux
 
 * SpringFox: http://springfox.github.io/springfox/docs/current/
 * spring-boot-swagger2 使用手册: https://gumutianqi1.gitbooks.io/specification-doc/content/tools-doc/spring-boot-swagger2-guide.html
+* Swagger Client for JavaScript: https://github.com/swagger-api/swagger-js
