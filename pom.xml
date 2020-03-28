@@ -9,12 +9,12 @@
     <packaging>jar</packaging>
 
     <name>swagger-boot-demo</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Spring Boot app with Swagger</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <spring-boot.version>2.2.4.RELEASE</spring-boot.version>
+        <spring-boot.version>2.2.6.RELEASE</spring-boot.version>
         <springfox.version>3.0.0-SNAPSHOT</springfox.version>
     </properties>
 
@@ -59,7 +59,7 @@
         <dependency>
             <groupId>io.swagger.parser.v3</groupId>
             <artifactId>swagger-parser</artifactId>
-            <version>2.0.17</version>
+            <version>2.0.18</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
